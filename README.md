@@ -1,5 +1,5 @@
 # 💫 About Me:
-😁 I'm a Junior Software Engineer focused on Java
+😁 Software Engineer with 2+ years of experience in Java application development, security, manual and automated testing, system integration, and quality assurance. Worked in teams of 4 to 7 people, with leadership experience managing squads of up to 4 members. Focused on robust architecture, scalable APIs, code quality, and QA practices applied throughout the entire software development lifecycle.
 
 
 ## 🌐 Socials:
